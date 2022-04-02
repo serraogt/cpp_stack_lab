@@ -39,8 +39,6 @@ public:
             cout<<"new node created with the value of:" <<x<<endl;
             size++;
         }}
-        //   int pop(top->value=0;);
-        //int top();
 
         bool isEmpty(){
         if (size <= 0) {
